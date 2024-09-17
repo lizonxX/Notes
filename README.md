@@ -6,7 +6,7 @@
 
 - ! ## exclamation point 
 - @ ## at
-- # ## hashtag
+- \#\# hashtag
 - $ ## dollar sign
 - % ## percentage
 - ^ ## caret
