@@ -10,7 +10,7 @@
 - $ -> dollar sign
 - % -> percentage
 - ^ -> caret
-  
+
 ## Links 📂
 
 - [GitHub Blog](https://github.blog/developer-skills/github/github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
@@ -21,4 +21,16 @@
 ## Experiments 📂
 <!--Italics--> 
 #### *blush emoji* -> 😊  *space_invader* -> 👾  *computer* -> 💻
+
+
+## Keyboard shortcuts 📂
+Shortcuts I frequently use: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Esc (close current task)
+
+Shortcuts I would like to start using: 
+- Ctrl-A (select all)
+- Windows Key + I (open file explorer)
+- Alt + Tab (Switch between open apps while pressing Tabs multiple times)
 
